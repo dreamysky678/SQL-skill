@@ -1,0 +1,4 @@
+interface:
+  display_name: "SQL 需求 DDL"
+  short_description: "把业务需求转换成安全、可审查、可回滚的数据库 DDL 脚本"
+  default_prompt: "Use $sql-requirement-ddl to turn this requirement into review-ready database DDL."
